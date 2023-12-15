@@ -10,7 +10,7 @@ This project was made by following [How To Make Select Menu Design Using HTML CS
 - Animations
 
 ## How To Use
-Click the select field to view the drop down menu. CLick on any item to set the select field to thagt value.
+Click the select field to view the drop down menu. Click on any item to set the select field to thagt value.
 
 ## Future Features
 - I would like to find a way to modify an actual select element into this format
