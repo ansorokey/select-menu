@@ -14,4 +14,4 @@ Click the select field to view the drop down menu. CLick on any item to set the 
 
 ## Future Features
 - I would like to find a way to modify an actual select element into this format
-- Display something below the select field
+- Display something below the select field based on user selection
